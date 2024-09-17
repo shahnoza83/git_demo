@@ -1,4 +1,6 @@
 - things to do:
 
 practice java
-soft skills 
+soft skills
+
+- adding new thins on GitHub
